@@ -12,3 +12,7 @@ El pilates se centra en fortalecer el núcleo, mejorar la postura y aumentar la 
 1. Calienta con ejercicios básicos como respiración controlada.
 2. Realiza movimientos como el "cien", puente de cadera o la sierra.
 3. Practica entre 30-60 minutos.
+
+## Consejos
+- Mantén los movimientos lentos y controlados.
+- Enfócate en la conexión mente-cuerpo.
