@@ -8,3 +8,7 @@ La flexibilidad mejora el rango de movimiento de las articulaciones y reduce la 
 - Alivia tensiones musculares.
 - Mejora la postura.
 
+## Instrucciones
+1. Calienta con movimientos dinámicos suaves.
+2. Realiza estiramientos estáticos manteniendo cada posición durante 20-30 segundos.
+3. Trabaja grupos musculares principales.
