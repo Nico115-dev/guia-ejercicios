@@ -7,3 +7,8 @@ La natación es un ejercicio completo que utiliza todos los grupos musculares y 
 - Mejora la resistencia cardiovascular.
 - Fortalece todo el cuerpo.
 - Reduce el impacto en las articulaciones.
+
+## Instrucciones
+1. Realiza ejercicios de calentamiento en seco y en agua.
+2. Practica diferentes estilos (crol, braza, espalda) según tu habilidad.
+3. Nada durante 20-30 minutos, descansando entre series.
