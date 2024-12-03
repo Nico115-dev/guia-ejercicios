@@ -13,3 +13,7 @@ Los ejercicios de fuerza consisten en actividades que fortalecen los músculos m
 2. Ejecuta 3-4 series de 8-12 repeticiones por ejercicio.
 3. Incluye ejercicios para grupos musculares principales (sentadillas, press de banca, dominadas).
 4. Finaliza con estiramientos.
+
+## Consejos
+- Prioriza la técnica sobre el peso.
+- Descansa 48 horas entre sesiones para grupos musculares grandes.
