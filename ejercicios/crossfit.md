@@ -12,3 +12,7 @@ CrossFit combina ejercicios funcionales de alta intensidad para desarrollar fuer
 1. Realiza un calentamiento dinámico.
 2. Completa un WOD (Workout of the Day) que combine ejercicios de fuerza, cardio y gimnásticos.
 3. Enfríate con estiramientos activos.
+
+## Consejos
+- Escala los ejercicios según tu nivel.
+- Concéntrate en la técnica antes de aumentar la intensidad o el peso.
